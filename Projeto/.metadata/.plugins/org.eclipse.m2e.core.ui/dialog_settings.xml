@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Mateus_workspace"/>
+			<item value="T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Mateus_workspace\Testes"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="br.jubileu"/>
+			<item value="br.Jubileu"/>
+			<item value="br.mateus"/>
+			<item value="br.Mateus"/>
+			<item value="br.mateussantos"/>
+		</list>
+		<list key="name">
+			<item value="Mutiplicar e Dividir"/>
+			<item value="Mutiplicação E Divisão "/>
+			<item value="Mutiplicação E Divisão"/>
+		</list>
+		<list key="artifactId">
+			<item value="mutiplicacaoEdivisao"/>
+			<item value="Muriplicacao_E_Divisao"/>
+			<item value="mutiplicacao_e_divisao"/>
+			<item value="MutiplicacaoEdivisao"/>
+			<item value="MutiplicacaoE_Divisao"/>
+			<item value="MateusOlaMundo"/>
+			<item value="Mateus_do_OlaMundo"/>
+			<item value="OiMundo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
